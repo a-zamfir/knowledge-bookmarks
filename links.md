@@ -7,6 +7,7 @@
 - [Recursive meta-cognition](https://x.com/godofprompt/status/2011850737354228039?s=20)
 - [Prompt repetition improves non-reasoning LLMs](https://x.com/burkov/status/2023822767284490263?s=20)
 - [Ralph](https://x.com/ryancarson/status/2008548371712135632?s=20)
+- [ST3GG - Plinius Steganography jailbreak](https://github.com/elder-plinius/st3gg)
 
 ## Models and Evaluation
 
@@ -26,6 +27,7 @@
 - [WhatsApp for agents](https://x.com/arifarji/status/2036133752120738300?s=20)
 - [AutoAgent (self-improving agents)](https://x.com/aakashgupta/status/2040279727085396328?s=20)
 - [Docker sandboxes](https://www.linkedin.com/feed/update/urn:li:activity:7446904654229151746?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7446904654229151746%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+- [Paperclip - Agent Orchestration](https://github.com/paperclipai/paperclip)
 
 ## Developer Tools and Automation
 
