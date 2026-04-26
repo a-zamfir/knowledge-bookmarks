@@ -2,7 +2,7 @@
 
 ## Prompting and Reasoning
 
-- [Authorization bypass](https://x.com/0x_ultra/status/2047637532394049626?s=20)
+- [Authorization generator - policy bypass](https://x.com/0x_ultra/status/2047637532394049626?s=20)
 - [Fixing progressive disclosure](https://x.com/koylanai/status/2016684758588154239?s=20)
 - [Recursive meta-cognition](https://x.com/godofprompt/status/2011850737354228039?s=20)
 - [Prompt repetition improves non-reasoning LLMs](https://x.com/burkov/status/2023822767284490263?s=20)
@@ -11,7 +11,7 @@
 
 ## Models and Evaluation
 
-- [OpenAI PII classification](https://x.com/scaling01/status/2046972437422543064?s=20)
+- [PII classification](https://x.com/scaling01/status/2046972437422543064?s=20)
 - [Voxtral](https://x.com/MistralAI/status/2037183026539483288?s=20)
 - [Distilled proprietary models](https://x.com/hxiao/status/2024975730447401128?s=20)
 - [CrabTrap (LLM-as-a-judge for AI agents)](https://x.com/pedroh96/status/2046605307372093932?s=20)
@@ -31,7 +31,7 @@
 
 ## Developer Tools and Automation
 
-- [Kami documentation generator](https://x.com/HiTw93/status/2046585177170968778?s=20)
+- [Kami - Documentation generator](https://x.com/HiTw93/status/2046585177170968778?s=20)
 - [SemanticDiff (intent-aware code change analysis)](https://x.com/Palanikannan_M/status/2029992315532759435?s=20)
 - [Port inspector](https://x.com/larsencc/status/2039923439159648488?s=20)
 - [Euphony (Codex and chat session logs)](https://x.com/OpenAIDevs/status/2046620363568890230?s=20)
