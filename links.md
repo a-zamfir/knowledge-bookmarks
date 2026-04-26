@@ -14,6 +14,7 @@
 - [Voxtral](https://x.com/MistralAI/status/2037183026539483288?s=20)
 - [Distilled proprietary models](https://x.com/hxiao/status/2024975730447401128?s=20)
 - [CrabTrap (LLM-as-a-judge for AI agents)](https://x.com/pedroh96/status/2046605307372093932?s=20)
+- [Chroma Context-1 - Frontier agentic search](https://www.linkedin.com/posts/huggingface_were-releasing-chroma-context-1-a-20b-parameter-activity-7443094688263233536-FW0a?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmwO_QBj6ltvKCp4p2M88UmBqnVqE7jwxM)
 
 ## Agent Environments and Ops
 
@@ -24,6 +25,7 @@
 - [Linear for agent issue tracking](https://x.com/cjc/status/2036506495765061708?s=20)
 - [WhatsApp for agents](https://x.com/arifarji/status/2036133752120738300?s=20)
 - [AutoAgent (self-improving agents)](https://x.com/aakashgupta/status/2040279727085396328?s=20)
+- [Docker sandboxes](https://www.linkedin.com/feed/update/urn:li:activity:7446904654229151746?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7446904654229151746%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 ## Developer Tools and Automation
 
@@ -38,6 +40,8 @@
 - [HyperSkill auto-skill generator](https://x.com/hyperbrowser/status/2017329941604667614?s=20)
 - [X bookmark manager for agents](https://x.com/andrewfarah/status/2040535589771149379?s=20)
 - [Watermelon UI/UX library](https://x.com/vanshdevx/status/2043942896013844696?s=20)
+- [litesearch - liteparse, document ingestion](https://www.linkedin.com/feed/update/urn:li:activity:7444108536172920832?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7444108536172920832%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+- [pinchtab - plain http api for browser automation](https://www.linkedin.com/feed/update/urn:li:activity:7436793175207403520?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7436793175207403520%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 ## Practices and Patterns
 
